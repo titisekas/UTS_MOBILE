@@ -1,0 +1,2 @@
+com/titis/uts_18090049/BuildConfig.java
+ com.titis.uts_18090049.BuildConfig
